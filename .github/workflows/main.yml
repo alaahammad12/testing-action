@@ -19,6 +19,6 @@ jobs:
         uses: docker/build-push-action@v2
         with:
           push: true
-          tags: alaahammad12
+          tags: alaahammad12/testing-actions.git
           
           
